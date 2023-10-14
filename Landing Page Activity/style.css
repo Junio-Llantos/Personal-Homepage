@@ -1,0 +1,18 @@
+.head {
+    font-family: Verdana, sans-serif;
+}
+
+span {
+    color: #ffc200
+}
+
+.container {
+    font-family: Merriweather, Georgia, serif;
+}
+
+.footer {
+    font-family: Georgia, serif;
+    color: #666;
+    font-size: 14px;
+    font-style: italic;
+}
